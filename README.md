@@ -1,4 +1,4 @@
-# [MS-Teams-Auto-Joiner](https://github.com/5r33ch4)
+# MS-Teams-Auto-Joiner
 
 ![banner](https://i.imgur.com/xtq5Muz.png)
 
